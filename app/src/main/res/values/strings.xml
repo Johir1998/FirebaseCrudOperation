@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseCrudOperation</string>
+    <string name="chooseButton_Text">Choose Image</string>
+    <string name="hint_Text">Enter a name for image</string>
+    <string name="saveImageButton_text">save image</string>
+    <string name="displayImageButton_Text">display image</string>
+    <string name="cardTextView_Text">Image Name</string>
+</resources>
